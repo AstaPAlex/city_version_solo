@@ -1,4 +1,4 @@
-package org.example;
+package org.example.civil;
 
 import java.time.LocalDate;
 import java.util.*;
@@ -6,7 +6,7 @@ import lombok.AccessLevel;
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
 import lombok.experimental.FieldDefaults;
-import static org.example.TypeRegistry.*;
+import static org.example.civil.TypeRegistry.*;
 
 @RequiredArgsConstructor
 @FieldDefaults(makeFinal = true, level = AccessLevel.PRIVATE)

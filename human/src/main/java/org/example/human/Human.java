@@ -1,12 +1,11 @@
-package org.example;
+package org.example.human;
 
 import java.util.HashSet;
 import java.util.Set;
 import lombok.*;
 import lombok.experimental.FieldDefaults;
 import org.apache.commons.lang3.StringUtils;
-import org.example.exceptions.EqualsGenderParentsException;
-
+import org.example.human.exceptions.EqualsGenderParentsException;
 
 
 @Getter

@@ -1,4 +1,6 @@
-package org.example;
+package org.example.civil;
+
+import org.example.human.Gender;
 
 import java.time.LocalDate;
 import java.time.Month;

@@ -1,4 +1,4 @@
-package org.example.exceptions;
+package org.example.human.exceptions;
 
 import lombok.experimental.StandardException;
 

@@ -1,10 +1,12 @@
-package org.example;
+package org.example.civil;
 
 import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.NonNull;
 import lombok.Setter;
 import lombok.experimental.FieldDefaults;
+import org.example.human.Gender;
+import org.example.human.Human;
 
 @Getter
 @Setter

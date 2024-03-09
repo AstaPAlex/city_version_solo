@@ -1,4 +1,4 @@
-package org.example;
+package org.example.civil;
 
 import lombok.AccessLevel;
 import lombok.NoArgsConstructor;
